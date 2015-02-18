@@ -1,0 +1,43 @@
+body{
+background-color: #fff;
+}
+
+p{
+color: #ecf0f1;
+font-family: Helvetica;
+}
+
+#identifiant{
+color: #ecf0f1;
+font-family: Helvetica;
+}
+
+#email{
+color: #ecf0f1;
+font-family: Helvetica;
+}
+
+.searchBar{
+background-color: #3498db;
+width: 20%;
+float: left;
+height: 600px;
+padding-top: 15px;
+padding-left: 15px;
+}
+
+.donut{
+float: left;
+height: 500px;
+background-color: transparent;
+width: 900px;
+color: white!important;
+}
+
+#buttonSearch{
+background-image: url("../Images/search.png");
+border-color: transparent;
+background-repeat: no-repeat;
+background-color: white;
+background-size: 18px auto;
+}
